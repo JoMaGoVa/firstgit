@@ -1,3 +1,6 @@
 Jose Manuel Gonzalez Vazquez
 
 ahora vamos a realizar el segundo commit
+
+vamos acomprobar si los cambios sur¡jen si guardar el archivo
+despues de hacer git add
